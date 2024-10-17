@@ -1,0 +1,28 @@
+---------- >>> load pretrained res-18 <<< ----------
+
+93
+42
+9129
+0 / 9129
+1000 / 9129
+2000 / 9129
+3000 / 9129
+4000 / 9129
+5000 / 9129
+6000 / 9129
+7000 / 9129
+8000 / 9129
+9000 / 9129
+Audio Counting Accuracy: 78.27 %
+Audio Cmp Accuracy: 63.47 %
+Audio Accuracy: 72.81 %
+Visual Counting Accuracy: 74.85 %
+Visual Loc Accuracy: 70.78 %
+Visual Accuracy: 72.79 %
+AV Ext Accuracy: 79.15 %
+AV counting Accuracy: 68.14 %
+AV Loc Accuracy: 55.54 %
+AV Cmp Accuracy: 61.22 %
+AV Temporal Accuracy: 61.07 %
+AV Accuracy: 65.36 %
+Overall Accuracy: 68.65 %
