@@ -1,4 +1,4 @@
-# Missing-AVQA
+# Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality [ECCV 2024 Poster]
 
 **Missing-AVQA** is a research project focusing on handling missing modalities in audio-visual question answering (AVQA) tasks. This project aims to improve robustness in scenarios where one or more input modalities are incomplete or missing, leveraging multimodal knowledge to recall missing information.
 
