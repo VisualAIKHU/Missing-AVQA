@@ -20,11 +20,11 @@ To set up the project, follow the instructions below:
     pip install -r requirements.txt
 
 ## Usage
-You can test the model with the following commands:
-    ```bash
-    bash test.sh
 
-For training your own model:
+1. You can test the model with the following commands:
+   ```bash
+   bash test.sh
+2. For training your own model:
     ```bash
     bash train.sh
 
