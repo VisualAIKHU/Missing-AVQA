@@ -42,7 +42,7 @@ If you use MonoWAD, please consider citing:
 
 ## Acknowlegment
 
-Our codes benefits from the excellent [AVST](https://github.com/Owen-Liuyuxuan/visualDet3D), [denoising-diffusion-pytorch
+Our codes benefits from the excellent [AVST](https://github.com/GeWu-Lab/MUSIC-AVQA.git), [denoising-diffusion-pytorch
 ](https://github.com/lucidrains/denoising-diffusion-pytorch).
 
 
