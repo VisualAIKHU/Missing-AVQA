@@ -33,7 +33,7 @@ To set up the project, follow the instructions below:
     bash train.sh
     ```
 ## Citation
-If you use MonoWAD, please consider citing:
+If you use Missing AVQA, please consider citing:
 
     @article{park2024missingAVQA,
       title={Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality},
