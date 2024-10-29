@@ -1,6 +1,13 @@
-# Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality [ECCV 2024]
+# <p align=center> [ECCV 2024] Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality</p>
+Official Repository for "Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality".
 
-**Missing-AVQA** is a research project focusing on handling missing modalities in audio-visual question answering (AVQA) tasks. This project aims to improve robustness in scenarios where one or more input modalities are incomplete or missing, leveraging multimodal knowledge to recall missing information.
+<div align="center">
+
+[![paper](https://img.shields.io/badge/MonoWAD-paper-green.svg)](https://arxiv.org/abs/2407.16171)
+
+<img alt="img-name" src="https://github.com/VisualAIKHU/MonoWAD/assets/132932095/16871ca9-b57c-454f-895c-8d44bd835de1" width="900"> 
+
+</div>
 
 ## Abstract
 
