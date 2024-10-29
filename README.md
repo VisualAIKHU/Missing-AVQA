@@ -24,9 +24,25 @@ To set up the project, follow the instructions below:
 1. You can test the model with the following commands:
    ```bash
    bash test.sh
+   ```
 2. For training your own model:
     ```bash
     bash train.sh
+    ```
+## Citation
+If you use MonoWAD, please consider citing:
 
+    @article{park2024missingAVQA,
+      title={Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality},
+      author={Park, Kyu Ri and Lee, Hong Joo and Kim, Jung Uk},
+      journal={arXiv preprint arXiv:2407.16171},
+      year={2024}
+    }
+---
+
+## Acknowlegment
+
+Our codes benefits from the excellent [AVST](https://github.com/Owen-Liuyuxuan/visualDet3D), [denoising-diffusion-pytorch
+](https://github.com/lucidrains/denoising-diffusion-pytorch).
 
 
