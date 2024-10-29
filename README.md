@@ -5,7 +5,6 @@ Official Repository for "Learning Trimodal Relation for Audio-Visual Question An
 
 [![paper](https://img.shields.io/badge/MonoWAD-paper-green.svg)](https://arxiv.org/abs/2407.16171)
 
-<img alt="img-name" src="https://github.com/VisualAIKHU/MonoWAD/assets/132932095/16871ca9-b57c-454f-895c-8d44bd835de1" width="900"> 
 
 </div>
 
