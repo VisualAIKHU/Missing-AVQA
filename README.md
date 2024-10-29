@@ -1,12 +1,9 @@
 # <p align=center> [ECCV 2024] Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality</p>
 Official Repository for "Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality".
 
-<div align="center">
+Accepted at [ECCV 2024](https://https://eccv.ecva.net/): <br/>
 
-[![paper](https://img.shields.io/badge/MonoWAD-paper-green.svg)](https://arxiv.org/abs/2407.16171)
-
-
-</div>
+[[Paper]] [[arXiv](https://arxiv.org/abs/2407.16171)]
 
 ## Abstract
 
